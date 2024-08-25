@@ -1,0 +1,14 @@
+{
+  "name": "vision_bot",
+  "version": "1.0.0",
+  "description": "um bot para o studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "!echo"
+  },
+  "author": "FADOD",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}

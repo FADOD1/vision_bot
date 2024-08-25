@@ -1,0 +1,6 @@
+DISPLAY_NAME=VISION BOT
+DESCRIPTION=Bot de administração do meu servidor
+MAIN=index.js
+MEMORY=128
+VERSION=recommended
+AUTORESTART=true
